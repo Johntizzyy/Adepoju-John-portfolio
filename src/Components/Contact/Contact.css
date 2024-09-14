@@ -1,0 +1,106 @@
+* {
+  box-sizing: border-box;
+  /* border: 1px solid var(--primary-color); */
+}
+.contact-container {
+  max-width: 1200px;
+  padding: 100px 0;
+  /* margin: 50px 0; */
+}
+.contact-container h1 {
+  /* margin-top: 30px; */
+  margin-right: 10px;
+  display: inline;
+  font-size: 2.5rem;
+}
+
+.contact-container img {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  top: 7px;
+}
+
+.form-map {
+  display: flex;
+  margin-top: 0px;
+}
+.form-map .form {
+  /* border: 2px solid var(--primary-color); */
+  /* width: 40%; */
+  margin-top: 60px;
+
+  /* height: 60vh; */
+}
+.form-map .map {
+  /* border: 2px solid var(--primary-color); */
+  /* width: 40%; */
+  height: 100vh;
+}
+
+.form form input[type="text"],
+input[type="email"] {
+  padding: 20px 40px;
+  width: 500px;
+  border: none;
+  box-shadow: 0px 0px 10px var(--fade);
+  margin-bottom: 20px;
+  font-size: 1rem;
+  color: #3b3838;
+  outline: none;
+}
+.form form input::placeholder {
+  font-size: 1rem;
+  text-align: start;
+}
+
+.message {
+  height: 8rem;
+  /* border: 1px solid red; */
+  padding: 40px;
+}
+
+.myButton {
+  width: 120px;
+  height: 50px;
+  font-size: 1rem;
+  background: var(--primary-color);
+  color: #fff;
+  border: none;
+  margin-top: 20px;
+}
+
+.myButton:hover {
+  background-color: #532c8d;
+}
+.myButton:active {
+  background-color: #5f3997;
+}
+.microphone {
+  position: relative;
+  right: 50px;
+  height: 60px;
+  width: 60px;
+}
+
+.comment > .last {
+  border: none;
+  /* box-shadow: 0px 0px 10px var(--primary-color); */
+  position: relative;
+  top: -75px;
+  max-width: 500px;
+  height: 54px;
+  padding: 30px;
+  background: none;
+  outline: none;
+  
+
+}
+
+.comment>.last::placeholder::placeholder {
+    font-size: 5rem;
+  }
+
+.footer-div{
+  /* margin-top: 40px; */
+}
