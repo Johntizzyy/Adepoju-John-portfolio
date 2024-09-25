@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Johntizzyy/Adepoju-John-portfolio/static/css/main.0e909666.css",
+    "main.js": "/Johntizzyy/Adepoju-John-portfolio/static/js/main.908765a0.js",
+    "static/js/453.c9c35973.chunk.js": "/Johntizzyy/Adepoju-John-portfolio/static/js/453.c9c35973.chunk.js",
+    "static/media/dpp.jpg": "/Johntizzyy/Adepoju-John-portfolio/static/media/dpp.ddf22d1a86b0c710a03b.jpg",
+    "static/media/responsive-design.png": "/Johntizzyy/Adepoju-John-portfolio/static/media/responsive-design.4ef2bd7be5052ade469f.png",
+    "static/media/web.png": "/Johntizzyy/Adepoju-John-portfolio/static/media/web.cd2930a81f3f30ea0fe0.png",
+    "static/media/app-development.png": "/Johntizzyy/Adepoju-John-portfolio/static/media/app-development.f9d169e80e84e333a6d1.png",
+    "static/media/seo.png": "/Johntizzyy/Adepoju-John-portfolio/static/media/seo.d119489a21a52a7aadc3.png",
+    "index.html": "/Johntizzyy/Adepoju-John-portfolio/index.html",
+    "main.0e909666.css.map": "/Johntizzyy/Adepoju-John-portfolio/static/css/main.0e909666.css.map",
+    "main.908765a0.js.map": "/Johntizzyy/Adepoju-John-portfolio/static/js/main.908765a0.js.map",
+    "453.c9c35973.chunk.js.map": "/Johntizzyy/Adepoju-John-portfolio/static/js/453.c9c35973.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e909666.css",
+    "static/js/main.908765a0.js"
+  ]
+}
